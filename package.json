@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rafaelprz/abonate#readme",
   "dependencies": {
     "express": "^4.21.2",
+    "fs": "^0.0.1-security",
     "react": "^19.0.0"
   }
 }
